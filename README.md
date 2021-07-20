@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## 🚧 Work In Progress 🚧
 
-<!-- 🔭 I’m currently working on ... -->
+🔭 I’m currently working on PokeSDK
 - 🌱 I’m currently learning Haskell!
 - 👯 I’m looking to collaborate on ROS software.
 - 🤔 I’m looking for help with microcontrollers.
