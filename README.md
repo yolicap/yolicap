@@ -9,12 +9,13 @@
 ##### Currently:
 - Georgia Tech
 
-#### Previously:
+##### Previously:
 - Kettering University
-- - SAE Autodrive Perception
-- - REACH Lab
+  - SAE Autodrive Perception
+  - REACH Lab
 - Bosch Engineering LLC
 
+##### Other:
 - 🔭 I’m currently working on ROS nodes
 - 🌱 I’m currently learning Unix programming!
 - 👯 I’m looking to collaborate on ROS software.
