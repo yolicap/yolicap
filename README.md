@@ -1,6 +1,20 @@
 ## Zeus Polanco Salgado
 #### He/Him
 
+##### Interests:
+- Embedded Systems
+- Machine Learning
+- Software Engineering
+
+##### Currently:
+- Georgia Tech
+
+#### Previously:
+- Kettering University
+- - SAE Autodrive Perception
+- - REACH Lab
+- Bosch Engineering LLC
+
 - 🔭 I’m currently working on ROS nodes
 - 🌱 I’m currently learning Unix programming!
 - 👯 I’m looking to collaborate on ROS software.
