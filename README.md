@@ -1,26 +1,35 @@
-## Zeus Polanco Salgado
-#### He/Him
+<h1> Zeus Polanco Salgado </h1>
 
-##### Interests:
-- Embedded Systems
-- Machine Learning
-- Software Engineering
+<h3>Current Organizations</h3>
+<ul>
+  <li>☘️ Cisco Meraki as Product Software Engineer Intern</li>
+  <li>🐝 Georgia Tech Computer Science undergrad</li>
+  <li>🍈 MelonFlesh Technologies as Web Developer</li>
+</ul>
 
-##### Currently:
-- Georgia Tech
+<h3> Interests: </h3>
+<ul>
+  <li>💾 Software Engineering</i>
+  <li>⚙️ Embedded Systems</li>
+  <li>👁‍🗨 Computer Vision</li>
+</ul>
 
-##### Previously:
-- Kettering University
-  - SAE Autodrive Perception
-  - REACH Lab
-- Bosch Engineering LLC
+<h3>Previous Organizations</h3>
+<ul>
+  <li>🚙 Kettering University SAE Autodrive Perception Captain</i>
+  <li>🔬 Kettering University REACH Laboratory, Dr. Merhdad Zadeh</li>
+  <li>🏎 Bosch Engineering GmbH as Embedded Software Engineer Co-Op</li>
+</ul>
 
-##### Other:
-- 🔭 I’m currently working on ROS nodes
-- 🌱 I’m currently learning Unix programming!
-- 👯 I’m looking to collaborate on ROS software.
-- 🤔 I’m looking for help with Combinatorics.
-- 💬 Ask me about Machine Learning and ROS!
-- 📫 How to reach me: zpolanco@gatech.edu
+<h3>About Me</h3>
+<ul>
+  <li>🔭 I’m currently working on C/C++ microcontroller software and website templates</li>
+  <li>🌱 Currently learning Web Development</i>
+  <li>💬 Ask me about Object Detection and Robotic Operating System!</li>
+  <li>📫 How to reach me: zeus@gatech.edu </li>
+</ul>
 
+<h3>Code Wars</h3>
+<p>Which I haven't touched in a long while...</p>
+<p>https://www.codewars.com/users/surety_/</p>
 ![codewars-badge](https://www.codewars.com/users/surety_/badges/large)
