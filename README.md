@@ -32,4 +32,4 @@
 <h3>Code Wars</h3>
 <p>Which I haven't touched in a long while...</p>
 <p>https://www.codewars.com/users/surety_/</p>
-![codewars-badge](https://www.codewars.com/users/surety_/badges/large)
+<img src="https://www.codewars.com/users/surety_/badges/large" alt="codewars-badge"> 
