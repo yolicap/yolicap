@@ -2,9 +2,9 @@
 
 <h3>Current Organizations</h3>
 <ul>
-  <li>☘️ Cisco Meraki as Product Software Engineer Intern</li>
+  <li>☘️ Cisco Meraki Product Software Engineer Intern</li>
   <li>🐝 Georgia Tech Computer Science undergrad</li>
-  <li>🍈 MelonFlesh Technologies as Web Developer</li>
+  <li>🍈 MelonFlesh Technologies Web Developer</li>
 </ul>
 
 <h3> Interests: </h3>
