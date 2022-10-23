@@ -3,7 +3,7 @@
 <h3>Current Organizations</h3>
 <ul>
   <li>☘️ Cisco Meraki Product Software Engineer Intern</li>
-  <li>👨‍🦲 Amazon Software Engineer Intern</li>
+  <li>📦 Amazon Software Engineer Intern</li>
   <li>🐝 Georgia Tech Computer Science undergrad</li>
   <li>🍈 MelonFlesh Technologies Web Developer</li>
 </ul>
