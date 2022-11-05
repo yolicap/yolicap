@@ -5,7 +5,7 @@
   <li>☘️ Cisco Meraki Product Software Engineer Intern</li>
   <li>📦 Amazon Software Engineer Intern</li>
   <li>🐝 Georgia Tech Computer Science undergrad</li>
-  <li>🍈 MelonFlesh Technologies Web Developer</li>
+  <li>🍈 MelonFlesh Studio Web Developer</li>
 </ul>
 
 <h3> Interests: </h3>
