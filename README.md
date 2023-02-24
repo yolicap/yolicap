@@ -25,7 +25,7 @@
 <h3>About Me</h3>
 <ul>
   <li>🔭 I’m currently working on C/C++ microcontroller software and website templates</li>
-  <li>🌱 Currently learning Web Development</i>
+  <li>🌱 Currently learning Network Programming</i>
   <li>💬 Ask me about Object Detection and Robotic Operating System!</li>
   <li>📫 How to reach me: zeus@gatech.edu </li>
 </ul>
