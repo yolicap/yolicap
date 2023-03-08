@@ -5,7 +5,7 @@
   <li>☘️ Cisco Meraki as Product Software Engineer Intern (Spring '23)</li>
   <li>📦 Amazon Software Engineer Intern (Summer '23)</li>
   <li>🐝 Georgia Tech Computer Science undergrad</li>
-  <li>🍈 MelonFlesh Studio Web Developer</li>
+  <li>🍈 MelonFlesh Studio Developer - [check us out!](https://github.com/MelonFlesh)</li>
 </ul>
 
 <h3> Interests: </h3>
@@ -17,8 +17,8 @@
 
 <h3>Previous Organizations</h3>
 <ul>
-  <li>🚙 Kettering University SAE Autodrive Perception Captain (2020 - '21)</i>
-  <li>🔬 Kettering University REACH Laboratory, Dr. Merhdad Zadeh (2021)</li>
+  <li>🚙 Kettering University SAE Autodrive Perception Captain ('20 - '21)</i>
+  <li>🔬 Kettering University REACH Laboratory, Dr. Merhdad Zadeh ('21)</li>
   <li>🏎 Bosch Engineering GmbH as Engine Control Software Engineer Co-Op (Summer '21)</li>
 </ul>
 
