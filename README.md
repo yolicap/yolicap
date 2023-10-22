@@ -1,5 +1,3 @@
-<h1> Zeus Polanco Salgado </h1>
-
 <h3>Current Organizations</h3>
 <ul>
   <li>☘️ Cisco Meraki as Product Software Engineer Intern (Spring '23)</li>
