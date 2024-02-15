@@ -1,5 +1,6 @@
-<h3>🍈 MelonFlesh Studio Developer - <a href="https://github.com/MelonFlesh">check us out!</a></h3>
+<!-- <h3>🍈 MelonFlesh Studio Developer - <a href="https://github.com/MelonFlesh">check us out!</a></h3> -->
 
+<!--
 <h3> Interests: </h3>
 <ul>
   <li>💾 Software Engineering</i>
@@ -19,3 +20,4 @@
   <li>💬 Ask me about Perception Robotics and Robotic Operating System!</li>
   <li>📫 How to reach me: zeus@gatech.edu </li>
 </ul>
+-->
